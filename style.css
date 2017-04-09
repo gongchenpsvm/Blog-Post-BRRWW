@@ -68,3 +68,20 @@ p {
     padding-top: 15px;
     border-top: 1px solid #39f70c;
 }
+
+.other {
+    margin: auto auto 30px 20px;
+}
+
+.blog-post img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    float: left;
+}
+
+.learnHtml5{
+    float: left;
+    margin: 50px auto auto 50px;
+}
+
