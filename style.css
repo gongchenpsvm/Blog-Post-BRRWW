@@ -57,6 +57,7 @@ p {
 .blog-post {
     width: 75%;
     float: left;
+    position: relative;
 }
 
 .other-posts {
@@ -85,3 +86,9 @@ p {
     margin: 50px auto auto 50px;
 }
 
+
+.date {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
